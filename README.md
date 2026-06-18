@@ -47,6 +47,7 @@ I built this project to improve my understanding of:
 - Drag and Drop Task Sorting
 
 ## 📂 Project Structure
+
 project-folder/
 │
 ├── INDEX.html
