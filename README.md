@@ -1,4 +1,4 @@
-# 🌸 Pastel Daily Tasks To-Do App
+# 🌸Pastel Daily Tasks To-Do App
 
 A cute and aesthetic To-Do List web application built using **HTML, CSS, and JavaScript**.
 
@@ -48,12 +48,17 @@ I built this project to improve my understanding of:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 project-folder/
 │
-├── INDEX.html
-├── INDEX.css
-├── INDEX.js
-└── README.md
+├── index.html    # Structure of the application
+├── style.css     # Styling and pastel theme
+├── script.js     # To-do list functionality
+└── README.md     # Project documentation
+```
+
 
 ## 💡 What I Learned
 
